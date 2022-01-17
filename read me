@@ -1,0 +1,4 @@
+Python tool is performed in VScode to manipulate the survey data, drawing the information such as:
+- How many people have answer the survey
+- How many of people give the same answer for one question
+- Organizing the questions list to show clearly what subquestions are included in the questions.
